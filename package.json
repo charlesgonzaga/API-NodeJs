@@ -1,0 +1,16 @@
+{
+  "name": "exemplo-api-node",
+  "version": "1.0.0",
+  "description": "Exemplo simplório de API com Node.Js e Express",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Gonzaga <charlesgonzag@gmail.com> (https://charlesgonzaga.github.io/)",
+  "license": "ISC"
+}
